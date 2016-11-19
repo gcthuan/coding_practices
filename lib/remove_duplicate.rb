@@ -13,5 +13,3 @@ def remove_duplicate(str)
 	end
 	str = str[0..tail-1]
 end
-
-puts remove_duplicate("aewawassw")
